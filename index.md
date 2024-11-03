@@ -5,7 +5,7 @@ layout: home
 
 # Test
 
-![](/assets/images/bio-photo.png)
+![](/images/bio-photo.png)
 
 [Link button](https://just-the-docs.com){: .btn .btn-blue }
 
