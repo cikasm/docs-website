@@ -4,7 +4,10 @@
 
     url: https://github.com/cikasm/docs-website.git
 
+    search_enabled: false
+    
+
     aux_links: # remove if you don't want this link to appear on your pages
-      Template Repository: 
-      search_enabled: false
+   
+      
  
