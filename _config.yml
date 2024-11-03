@@ -1,4 +1,4 @@
-    title: Cintia Magalhães
+    title: Cintia Magalhães 
     description: Technical Writer
     theme: just-the-docs
 
@@ -6,4 +6,5 @@
 
     aux_links: # remove if you don't want this link to appear on your pages
       Template Repository: 
+      search_enabled: false
  
