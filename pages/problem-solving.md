@@ -1,7 +1,7 @@
 ---
-title: How I Help
+title: Problems I Solve
 layout: home
-nav_order: 3
+nav_order: 5
 ---
 
 # Where I Make a Difference

@@ -11,14 +11,16 @@ description: "Just write"
 Hi! I’m Cintia, a technical writer specializing in cloud documentation. This website gives an inside look at my approach, from structuring user guides to building self-help resources. 
 {: .fs-6 .fw-300 }
 
-
-Navigate through the sections to learn about my background, skills, and see examples of my work.
-
 ## How to Use This Website
+
+Explore the sections to learn about my background, skills, and see examples of my work:
 
 - **About Me**: Quick overview of my experience and expertise.
 - **Portfolio**: Examples of my work, including sample docs and project breakdowns.
-- **Tech Skills**: My technical knowledge, including tools and technologies I’m comfortable with.
+- **Technical Skills**: My technical knowledge, including tools and technologies I’m comfortable with.
+- **Problems I Solve**: Key challenges in cloud documentation and how I address them.
+- **FAQ**: Common questions I get about my work and approach.
 
+Thanks for visiting!
 
 
