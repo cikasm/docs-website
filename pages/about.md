@@ -33,6 +33,7 @@ I believe that great documentation goes beyond technical accuracy; it should ant
 ## What Inspired Me to Become a Technical Writer?
 
 I became a technical writer because I've seen how much clear information can help people.
+
 My first job, back in 2013 at Netflix support, showed me the impact of plain instructions on user experience. When handling software issues, app glitches, and streaming errors, the right explanation can turn frustration into a positive experience.
 
 In 2015, as a journalism intern at an architecture and construction magazine, interviewing architects and engineers taught me how to translate technical jargon into accessible language, which helped me see the value of simplifying complex information for non-technical audiences.
