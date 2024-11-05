@@ -23,9 +23,12 @@ With a background in journalism, data science, and content marketing. I’ve alw
 
 ## Overview
 
-My experience in journalism taught me to dig deep, get to the heart of the story, and communicate it in a way that's easy to follow. It's this investigative mindset that I bring to technical writing. 
+Ever met someone who’s always asking, “Why this? Why that?” That’s me. Over the past decade, I've explored roles across industries like food machinery, industrial services, and software development, discovering that making the complex simple is what truly drives me.
 
-I believe that great documentation goes beyond technical accuracy; it should anticipate user needs, answer questions before they're asked, and make complex technology accessible
+My experience in journalism taught me to dig deep, get to the heart of the story, and communicate it in a way that’s easy to follow. It’s this investigative mindset that I bring to technical writing. 
+
+I believe that great documentation goes beyond technical accuracy; it should anticipate user needs, answer questions before they’re asked, and make complex technology accessible.
+
 
 ## What Inspired Me to Become a Technical Writer?
 
