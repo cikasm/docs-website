@@ -5,7 +5,7 @@ nav_order: 1
 description: "Just write"
 ---
 
-# Focus on writing good documentation
+# Helping Users Navigate the Cloud
 {: .fs-9 }
 
 Hi! I’m Cintia, a technical writer specializing in cloud documentation. This website gives an inside look at my approach, from structuring user guides to building self-help resources. 
