@@ -1,5 +1,5 @@
 ---
-title: Where I Make a Difference
+title: How I Help
 layout: home
 nav_order: 5
 ---
