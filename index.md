@@ -18,7 +18,7 @@ Explore the sections to learn about my background, skills, and see examples of m
 - **About Me**: Quick overview of my experience and expertise.
 - **Portfolio**: Examples of my work, including sample docs and project breakdowns.
 - **Technical Skills**: My technical knowledge, including tools and technologies I’m comfortable with.
-- **Problems I Solve**: Key challenges in cloud documentation and how I address them.
+- **How I Help**: Key challenges in cloud documentation and how I address them.
 - **FAQ**: Common questions I get about my work and approach.
 
 Thanks for visiting!
