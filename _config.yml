@@ -5,7 +5,7 @@
     url: https://github.com/cikasm/docs-website.git
 
     search_enabled: false
-    baseurl: /docs-website/
+    baseurl: "/docs-website"
 
 
     aux_links: # remove if you don't want this link to appear on your pages
