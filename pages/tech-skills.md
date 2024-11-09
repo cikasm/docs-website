@@ -19,7 +19,7 @@ A breakdown of the tools, platforms, and skills I use to create clear, user-cent
 1. TOC
 {:toc}
 
-### Documentation & Development Tools
+## Documentation & Development Tools
 
 - **Markup languages**: Skilled in HTML, XML, and Markdown; familiar with DITA.
 - **Git & GitHub**: Proficient in version control and collaborative documentation management.
