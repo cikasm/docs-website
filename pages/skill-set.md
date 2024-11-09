@@ -1,7 +1,7 @@
 ---
-title: Technical skills
+title: Skills
 layout: home
-nav_order: 4
+nav_order: 3
 ---
 # Technical Skills & Expertise
 {: .no_toc }
@@ -19,21 +19,21 @@ A breakdown of the tools, platforms, and skills I use to create clear, user-cent
 1. TOC
 {:toc}
 
-## Documentation & Development Tools
+## Documentation & Development 
 
 - **Markup languages**: Skilled in HTML, XML, and Markdown; familiar with DITA.
 - **Git & GitHub**: Proficient in version control and collaborative documentation management.
 - **Sphinx**: Familiar with Sphinx for creating documentation for Python projects.
 - **Jekyll**: Proficient in Jekyll for static site generation.
 
-## Data & Programming Skills
+## Data & Programming 
 
 - **SQL**: Strong foundation in SQL for querying, analyzing, and interpreting datasets.
 - **Python**: Proficient in Python, especially for data analysis tasks and understanding code snippets when documenting technical projects.
 - **R**: Familiar with R programming for statistical analysis and data manipulation.
 - **Data Analysis**: Skilled in interpreting and organizing data.
 
-## Cloud Infrastructure & DevOps Tools
+## Cloud Infrastructure & DevOps 
 
 - **CI/CD Pipelines**: Familiar with continuous integration and deployment processes.
 - **Linux**: Experienced in command-line operations and file system management.
@@ -46,7 +46,7 @@ A breakdown of the tools, platforms, and skills I use to create clear, user-cent
 - **AWS**: Familiar with key AWS services (EC2, S3, Lambda).
 - **Microsoft Azure**: Currently building knowledge in Microsoft Azure, including cloud services, deployment, and infrastructure management.
 
-## Design & Visualization Tools
+## Design & Visualization 
 
 - **Figma**: Comfortable with Figma for creating user-friendly visuals for documentation.
 - **Tableau**: Proficient in Tableau for visualizing data.
@@ -58,3 +58,9 @@ A breakdown of the tools, platforms, and skills I use to create clear, user-cent
 - **Single Source of Truth (SSOT)**: Adherence to the SSOT principle, ensuring all information remains consistent, up-to-date, and centralized for easy access.
 - **Information Architecture**: Skilled in structuring content logically, making it intuitive to navigate, especially for extensive documentation sites.
 - **Agile Documentation**: Familiar with Agile documentation practices, particularly in collaborative, fast-paced environments, to align documentation updates with product iterations.
+
+## Language & Communication
+
+- **Languages**: Native in Portuguese, proficient in English, and currently learning Dutch (B1-B2 level).
+
+- **Soft Skills**: Effective communicator, collaborative team player, adaptable to change, and skilled in problem-solving.
