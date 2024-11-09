@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 # Technical Skills & Expertise
-{: .no_toc }
+{:toc}
 {: .fs-9 }
 
 A breakdown of the tools, platforms, and skills I use to create clear, user-centered documentation for cloud and development environments. 
