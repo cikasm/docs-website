@@ -11,7 +11,7 @@ nav_order: 2
 With a background in journalism, data science, and content marketing. I’ve always been curious about how things work and, more importantly, how to explain them clearly. 
 {: .fs-6 .fw-300 }
 
-![](/assets/images/photo.png)
+![Image]({{"/images/bio-photo-2.jpg", | docs-website }})
 
 {: .no_toc }
 
