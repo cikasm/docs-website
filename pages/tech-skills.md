@@ -44,12 +44,12 @@ A breakdown of the tools, platforms, and skills I use to create clear, user-cent
 - **Server Provisioning and Management**: Skilled in translating bare metal server setup and maintenance processes into clear, user-friendly instructions, supporting both standalone and hybrid environments.
 - **Network Configuration**: Knowledgeable in core networking principles from physical server setups, including IP management and VLANs.
 - **AWS**: Familiar with key AWS services (EC2, S3, Lambda).
-- **Microsoft Azure**: Currently building foundational knowledge in Microsoft Azure, including cloud services, deployment, and infrastructure management.
+- **Microsoft Azure**: Currently building knowledge in Microsoft Azure, including cloud services, deployment, and infrastructure management.
 
 ## Design & Visualization Tools
 
 - **Figma**: Comfortable with Figma for creating user-friendly visuals for documentation.
-- **Tableau**: Proficient in Tableau for visualizing data and creating impactful charts.
+- **Tableau**: Proficient in Tableau for visualizing data.
 - **Lucidchart**: Familiar with Lucidchart for flowcharts, network diagrams, and process maps.
 - **Adobe Illustrator**: Skilled in Adobe Illustrator for designing graphics and custom diagrams.
 

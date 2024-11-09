@@ -23,7 +23,7 @@ With a background in journalism, data science, and content marketing. I’ve alw
 
 ## Overview
 
-Ever met someone who's always asking, “Why this? Why that?” That's me. Over the past decade, I've explored roles across technical industries like food machinery, industrial services, and software development, discovering that making the complex simple is what truly drives me.
+Ever met someone who's always asking, “Why this? Why that?” That's me. Over the past decade, I've explored roles across industries like food machinery, industrial services, and software development, discovering that making the complex simple is what truly drives me.
 
 My experience in journalism taught me to dig deep, get to the heart of the story, and communicate it in a way that’s easy to follow. It’s this investigative mindset that I bring to technical writing. 
 
@@ -34,7 +34,7 @@ I believe that great documentation goes beyond technical accuracy; it should ant
 
 I became a technical writer because I've seen how much clear information can help people.
 
-My first job, back in 2013 at Netflix support, showed me the impact of plain instructions on user experience. When handling software issues, app glitches, and streaming errors, the right explanation can turn frustration into a positive experience.
+My first job, back in 2013 at Netflix support, showed me the impact of plain instructions on user experience. When handling software issues, app bugs, and streaming errors, the right explanation often turned frustration into a positive experience.
 
 In 2015, as a journalism intern at an architecture and construction magazine, interviewing architects and engineers taught me how to translate technical jargon into accessible language, which helped me see the value of simplifying complex information for non-technical audiences.
 

@@ -28,7 +28,7 @@ Documentation should be the single source of truth, not scattered or redundant. 
 
 ## 5. Staying Ahead of Product Changes
 
-In the cloud industry, updates happen constantly. I set up processes to ensure documentation keeps up, so users aren’t left with outdated information when they need to understand a new feature or change.
+I set up processes to ensure documentation keeps up, so users aren’t left with outdated information when they need to understand a new feature or change.
 
 ## 6. Reducing Support Load 
 
