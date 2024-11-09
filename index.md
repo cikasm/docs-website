@@ -23,9 +23,6 @@ Explore the sections to learn about my background, skills, and see examples of m
 
 Feel free to [contact me](mailto:cintiam.jor@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/cintiamagalhaes/).
 
-<a href="https://www.linkedin.com/in/cintiamagalhaes/" title="Email me">LinkedIn</a><link rel="linkedin" type="image/x-icon" href="/images/favicon.ico">
-
-
 Thanks for visiting!
 
 
