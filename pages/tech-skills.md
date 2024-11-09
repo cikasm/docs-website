@@ -3,14 +3,23 @@ title: Technical skills
 layout: home
 nav_order: 4
 ---
-
 # Technical Skills & Expertise
-{:toc}
+{: .no_toc }
 {: .fs-9 }
 
 A breakdown of the tools, platforms, and skills I use to create clear, user-centered documentation for cloud and development environments. 
 {: .fs-6 .fw-300 }
-## Documentation & Development Tools
+
+
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+### Documentation & Development Tools
 
 - **Markup languages**: Skilled in HTML, XML, and Markdown; familiar with DITA.
 - **Git & GitHub**: Proficient in version control and collaborative documentation management.
