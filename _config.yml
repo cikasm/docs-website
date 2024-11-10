@@ -8,7 +8,7 @@
     baseurl: "/docs-website"
 
 
-    footer_content: 'Copyright &copy; 2024 Cintia Magalhães. <a href="https://www.netlify.com/">Privacy Policy.</a>Version 1.0. Distributed by an <a href="https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt">MIT license.</a>'
+    footer_content: 'Copyright &copy; 2024 Cintia Magalhães. <a href="https://www.netlify.com/">Privacy Policy. </a>Version 1.0.'
     
     callouts_level: quiet # or loud
 callouts:
@@ -26,7 +26,7 @@ callouts:
   warning:
     title: Warning
     color: red
-    
+
     plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
