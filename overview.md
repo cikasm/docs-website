@@ -24,7 +24,7 @@ With a background in journalism, data science, and content marketing, I’ve alw
 
 ## Background and Approach
 
-Ever met someone who's always asking, “Why this? Why that?” That's me. Over the past decade, I've explored roles across industries like food machinery, industrial services, and software development, discovering that **making the complex simple is what truly drives me**.
+Ever met someone who's always asking, “Why this? Why that?” That's me. Over the past decade, I've worked across industries like food machinery, industrial services, and software development, discovering that **making the complex simple is what truly drives me**.
 
 My experience in journalism taught me to dig deep, get to the heart of the story, and communicate it in a way that’s easy to follow. It’s this investigative mindset that I bring to technical writing. 
 
