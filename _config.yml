@@ -8,7 +8,7 @@
     baseurl: "/docs-website"
 
 
-    footer_content: 'Copyright &copy; 2024 Cintia Magalhães. <a href="https://www.netlify.com/">Privacy Policy. </a>Version 1.0.'
+    footer_content: 'Copyright &copy; 2024 Cintia Magalhães. <a href="https://www.netlify.com/">Privacy Policy. Terms & Conditions<a href="https://www.netlify.com/"> </a>Version 1.0'
     
     callouts_level: quiet # or loud
 callouts:
