@@ -40,7 +40,7 @@ In 2015, as a journalism intern at an architecture and construction magazine, in
 
 In 2022, while creating technical content for data science and machine learning courses, I realized that technical writing was not just something I could do, **but something I wanted to do**. 
 
-From freelance projects to my current role as a lead technical writer at Latitude.sh, every step of my journey has led me here.
+From freelance projects to my current role as a lead technical writer at [Latitude.sh](#), every step of my journey has led me here.
 
 ## Why Cloud Documentation?
 
