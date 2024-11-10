@@ -1,5 +1,5 @@
 ---
-title: My Skillset
+title: My Skill Set
 parent: About Me
 layout: home
 nav_order: 3

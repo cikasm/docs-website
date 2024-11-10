@@ -11,17 +11,23 @@ description: "Just write"
 Hi! I’m Cintia, a technical writer specializing in cloud documentation. Here, you’ll get an inside look at my approach, from structuring user guides to building self-help resources. 
 {: .fs-6 .fw-300 }
 
-## How to Use This Website
+## Quick Start Guide
 
-Explore the sections to learn about my background, skills, and see examples of my work:
+Jump straight into the content that interests you:
 
-- **About Me**: Quick overview of my experience and expertise.
-- **Portfolio**: Examples of my work, including sample docs and project breakdowns.
-- **Skills**: My technical knowledge, including tools and technologies I’m comfortable with.
-- **How I Help**: Key challenges in cloud documentation and how I address them.
-- **FAQ**: Common questions I get about my work and approach.
+| Section       | Content                                                                                  |
+|---------------|----------------------------------------------------------------------------------------------|
+| [**About Me**](#)  | Learn about my background, skills, and what drives my work in cloud documentation.           | 
+| Overview      | [A look at my journey, approach, and experience](#).                                           |
+| Skill Set     | [My technical knowledge, including tools and technologies I’m comfortable with.](#)               |
+| How I Help    | [Key challenges in cloud documentation and how I address them.](#)                                |
+| [**Portfolio**](#) | See examples of my work, from sample docs to cloud projects.                                 |
+| Sample Docs   | [Specific examples of my documentation style and approach.](#)                               |
+| Cloud Infrastructure Guides | [In-depth resources on cloud infrastructure topics.](#)                             |
+| Projects      | [Highlights of key projects and documentation initiatives.](#)                                    |
+| [**Technical Blog**](#)     | Insights, tips, and perspectives on technical writing, cloud, and related fields.                                  |
+| [**Contact**](#)     | Reach out to connect or discuss potential collaboration.              |
 
-Feel free to [contact me](mailto:cintiam.jor@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/cintiamagalhaes/).
 
 Thanks for visiting!
 

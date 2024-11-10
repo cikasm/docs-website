@@ -1,6 +1,7 @@
 ---
 title: Sample Docs
 parent: Portfolio
-layout: minimal
-nav_order: 3
+layout: home
+nav_order: 2
 ---
+
