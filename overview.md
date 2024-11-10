@@ -28,7 +28,7 @@ Ever met someone who's always asking, “Why this? Why that?” That's me. Over 
 
 My experience in journalism taught me to dig deep, get to the heart of the story, and communicate it in a way that’s easy to follow. It’s this investigative mindset that I bring to technical writing. 
 
-I believe that great documentation goes beyond technical accuracy; **it should anticipate user needs, answer questions before they’re asked**, and **make complex technology accessible.**
+I believe that great documentation goes beyond technical accuracy; **it should anticipate user needs, answer questions before they’re asked, and make complex technology accessible.**
 
 ## What Inspired Me to Become a Technical Writer?
 
