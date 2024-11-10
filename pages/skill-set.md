@@ -1,5 +1,5 @@
 ---
-title: Tech Skills 
+title: Skills Overview
 parent: About Me
 layout: home
 nav_order: 3
