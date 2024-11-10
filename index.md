@@ -24,8 +24,7 @@ Jump straight into the content that interests you:
 |📑 [Sample Docs](#)   | Specific examples of my documentation style and approach.                              |
 |☸️ [Guides](#) | In-depth resources on cloud infrastructure topics.                            |
 |☁️ [Projects](#)      | Highlights of key projects and documentation initiatives.                                 |
-|✍️ [Technical Blog](#)     | Insights, tips, and perspectives on technical writing, cloud, and related fields.                                  |
-|✉️ [Contact](#)     | Reach out to connect or discuss potential collaboration.              |
+|✉️ [How to Reach Me](#)     | You can reach out via [email](mailto:), connect on [LinkedIn](#), or check out my [GitHub](#).            |
 
 
 Thanks for visiting!

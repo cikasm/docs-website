@@ -1,5 +1,5 @@
 ---
-title: Cloud Infrastructure Guides
+title: Guides
 parent: Portfolio
 layout: home
 nav_order: 3
