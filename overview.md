@@ -1,5 +1,6 @@
 ---
-title: About Me
+title: Overview
+parent: About Me
 layout: home
 nav_order: 2
 ---
@@ -29,7 +30,6 @@ My experience in journalism taught me to dig deep, get to the heart of the story
 
 I believe that great documentation goes beyond technical accuracy; **it should anticipate user needs, answer questions before they’re asked**, and **make complex technology accessible.**
 
-
 ## What Inspired Me to Become a Technical Writer?
 
 **I became a technical writer because I've seen how much clear information can help people.**
@@ -40,7 +40,7 @@ In 2015, as a journalism intern at an architecture and construction magazine, in
 
 In 2022, while creating technical content for data science and machine learning courses, I realized that technical writing was not just something I could do, **but something I wanted to do**. 
 
-From freelance projects to my current role as a lead technical writer at Latitude.sh, every step of my journey has led me here.
+From freelance projects to my current role as a lead technical writer at [Latitude.sh](), every step of my journey has led me here.
 
 ## Why Cloud Documentation?
 
