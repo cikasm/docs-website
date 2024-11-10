@@ -8,6 +8,32 @@
     baseurl: "/docs-website"
 
 
-    aux_links: # remove if you don't want this link to appear on your pages
+    footer_content: 'Copyright &copy; 2024 Cintia Magalhães. <a href="https://www.netlify.com/">Privacy Policy.</a>Version 1.0. Distributed by an <a href="https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt">MIT license.</a>'
+    
+    color_scheme: nil
+    callouts_level: quiet # or loud
+    callouts:
+      highlight:
+       color: yellow
+    important:
+      title: Important
+      color: blue
+    new:
+      title: New
+      color: green
+    note:
+      title: Note
+      color: purple
+    warning:
+      title: Warning
+      color: red
+  
+ 
+  
+  
+  
+
+
    
  
+    aux_links: # remove if you don't want this link to appear on your pages

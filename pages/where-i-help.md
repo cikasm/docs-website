@@ -1,5 +1,6 @@
 ---
 title: How I Help
+parent: About Me
 layout: home
 nav_order: 5
 ---
