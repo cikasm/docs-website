@@ -8,7 +8,7 @@ nav_order: 2
 {: .no_toc }
 {: .fs-9 }
 
-With a background in journalism, data science, and content marketing. I’ve always been curious about how things work and, more importantly, how to explain them clearly. 
+With a background in journalism, data science, and content marketing, I’ve always been curious about how things work and, more importantly, how to explain them clearly. 
 {: .fs-6 .fw-300 }
 
 ![](assets/images/bio-photo.png)
@@ -51,7 +51,6 @@ Just as data analysis depends on accuracy to support decision-making, cloud docu
 One of the aspects I enjoy most is working closely with developers and engineers, translating their technical knowledge into content that’s accurate and user-centered. 
 
 Ultimately, I chose cloud documentation because it allows me to do what I do best: **take complex technology and make it simple, accessible, and useful for those who need it.**
-
 
 ## Values That Guide My Work
 
