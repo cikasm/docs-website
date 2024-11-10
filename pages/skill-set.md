@@ -62,6 +62,6 @@ A breakdown of the tools, platforms, and skills I use to create clear, user-cent
 
 ## Language & Communication
 
-- **Languages**: Native in Portuguese, proficient in English, and currently learning Dutch (B1-B2 level).
+- **Languages**: Native in Portuguese, proficient in English, and currently learning Dutch (B1 level).
 
 - **Soft Skills**: Effective communicator, collaborative team player, adaptable to change, and skilled in problem-solving.
