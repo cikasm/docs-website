@@ -44,12 +44,13 @@ From freelance projects to my current role as a lead technical writer at [Latitu
 
 ## Why Cloud Documentation?
 
-Cloud technology is both powerful and complex, and I was drawn to it because it’s a field where clear communication is essential. Here, users are dealing with abstract concepts (servers, databases, virtual machines) that don’t have a tangible presence but power their applications and tools. **Without clear guidance, these systems can feel intimidating and inaccessible.**
+Cloud technology is powerful yet complex, and I was drawn to it because I see the need for clarity and know how to deliver it. 
+
+Users are dealing with abstract concepts like servers, databases, and virtual machines, which are intangible but essential to powering their applications and tools. **Without clear guidance, these systems can feel intimidating and out of reach.**
 
 Just as data analysis depends on accuracy to support decision-making, cloud documentation requires a structured, step-by-step approach to make complex systems understandable. I’ve embraced this process and find it rewarding.
 
-Ultimately, I chose cloud documentation because it allows me to do what I do best: **take complex technology and make it simple, accessible, and useful for those who need it.**
-
+Ultimately, I chose cloud documentation because it allows me to do what I do best: **turn complex information into something simple, accessible, and useful for those who need it.**
 
 ## Values That Guide My Work
 
