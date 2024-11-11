@@ -48,8 +48,6 @@ Cloud technology is both powerful and complex, and I was drawn to it because it�
 
 Just as data analysis depends on accuracy to support decision-making, cloud documentation requires a structured, step-by-step approach to make complex systems understandable. I’ve embraced this process and find it rewarding.
 
-One of the aspects I enjoy most is working closely with developers and engineers, translating their technical knowledge into content that’s accurate and user-centered. 
-
 Ultimately, I chose cloud documentation because it allows me to do what I do best: **take complex technology and make it simple, accessible, and useful for those who need it.**
 
 
