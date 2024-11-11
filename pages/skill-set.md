@@ -65,3 +65,14 @@ A breakdown of the tools, platforms, and skills I use to create clear, user-cent
 - **Languages**: Native in Portuguese, proficient in English, and currently learning Dutch (B1 level).
 
 - **Soft Skills**: Effective communicator, collaborative team player, adaptable to change, and skilled in problem-solving.
+
+## Certifications & Learning
+
+- [Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) - *Microsoft* (In Progress): Studying foundational Azure concepts, including cloud services, deployment, and infrastructure.
+- [Cloud NVIDIA Technologies](https://white-selma-22.tiiny.site/) - *NVIDIA*: Focused on Artificial Intelligence for Business, Cloud Computing IaaS, and Parallel Processing.
+- [Google Data Analytics Certificate](https://www.credly.com/badges/239e05c4-6637-4728-910a-4ce897a1d430/linked_in_profile) - *Google*: Comprehensive training in data analytics, equipping me with analytical skills for data-driven technical writing.
+- [Agile Foundations](https://www.linkedin.com/learning/certificates/97d3d0d970655e429910d39a305ed65f7a9ab9a689109d89363d7c1c10bc66fa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B2VwXymHtTaO%2FEK0LbR8gcg%3D%3D) - *IIBA*: Knowledge of Agile methodologies for collaborative and adaptive project management.
+- [Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/certificate/9E3DWHCBUC7E) - *Google*: Training in UX design principles, including design thinking and user experience.
+- [Information Design & Visualization Fundamentals](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/85645725) - *Gymnasium*: Training in data visualization techniques for data comprehension and storytelling.
+- [Product Management: Building a Product Roadmap](https://www.linkedin.com/learning/certificates/5dcf39a9eeaced691d6bb5897cb74325169799f944275e8227e36bca6f42b3d2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B2VwXymHtTaO%2FEK0LbR8gcg%3D%3D) - *Project Management Institute*: Skills in product management and roadmap development.
+- [Project Management: International Projects](https://www.linkedin.com/learning/certificates/96cd126a0ba5f2d43f3ae5a584212eb2af30d84f2fd09ad471bcff8edc581f8c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B2VwXymHtTaO%2FEK0LbR8gcg%3D%3D) - *Project Management Institute*: Training in managing international projects and global collaboration.
