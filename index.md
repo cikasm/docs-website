@@ -20,7 +20,7 @@ Jump straight into the content that interests you:
 |🙋🏻‍♀️ [About Me](https://cintiamagalhaes.dev/about.html){:target="_blank"} | Learn about my background, skills, and what drives my work.           | 
 |🧠 [Skill Set](https://cintiamagalhaes.dev/about/skill-set.html){:target="_blank"}    | My technical knowledge, including tools and technologies I’m comfortable with.              |
 |🧩 [How I Help](https://cintiamagalhaes.dev/about/where-i-help.html){:target="_blank"}    | Key challenges in cloud documentation and how I address them.                               |
-|💼 [Portfolio](https://cintiamagalhaes.dev/porffolio.html){:target="_blank"} | See examples of my work, from sample docs to cloud documentation projects.                                 |
+|💼 [Portfolio](https://cintiamagalhaes.dev/porfolio.html){:target="_blank"} | See examples of my work, from sample docs to cloud documentation projects.                                 |
 |📑 [Sample Docs](https://cintiamagalhaes.dev/portfolio/sample-docs.html){:target="_blank"}   | Specific examples of my documentation style and approach.                              |
 |☸️ [Guides](https://cintiamagalhaes.dev/portfolio/guides.html){:target="_blank"} | In-depth resources on cloud infrastructure topics.                            |
 |☁️ [Projects](https://cintiamagalhaes.dev/portfolio/projects.html){:target="_blank"}      | Highlights of key projects and documentation initiatives.                                 |
