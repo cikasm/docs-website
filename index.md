@@ -24,7 +24,7 @@ Jump straight into the content that interests you:
 |📑 [Sample Docs](https://cintiamagalhaes.dev/portfolio/sample-docs.html){:target="_blank"}   | Specific examples of my documentation style and approach.                              |
 |☸️ [Guides](https://cintiamagalhaes.dev/portfolio/guides.html){:target="_blank"} | In-depth resources on cloud infrastructure topics.                            |
 |☁️ [Projects](https://cintiamagalhaes.dev/portfolio/projects.html){:target="_blank"}      | Highlights of key projects and documentation initiatives.                                 |
-|✉️ [How to Reach Me](https://cintiamagalhaes.dev/contact.html){:target="_blank"}     | You can reach out via [email](mailto:), connect on [LinkedIn](https://www.linkedin.com/in/cintiamagalhaes/), or check out my [GitHub](https://github.com/cikasm).            |
+|✉️ [How to Reach Me](https://cintiamagalhaes.dev/contact.html){:target="_blank"}     | You can reach out via [email](mailto:cintiam.jor@gmail.com), connect on [LinkedIn](https://www.linkedin.com/in/cintiamagalhaes/), or check out my [GitHub](https://github.com/cikasm).            |
 
 
 Thanks for visiting!
