@@ -17,7 +17,7 @@ Jump straight into the content that interests you:
 
 | Section       | Content                                                                                  |
 |---------------|----------------------------------------------------------------------------------------------|
-|🙋🏻‍♀️ [About Me](https://cintiamagalhaes.dev/about.html)  | Learn about my background, skills, and what drives my work.           | 
+|🙋🏻‍♀️ [About Me](https://cintiamagalhaes.dev/about.html){:target="_blank"} | Learn about my background, skills, and what drives my work.           | 
 |🧠 [Skill Set](https://cintiamagalhaes.dev/about/skill-set.html)     | My technical knowledge, including tools and technologies I’m comfortable with.              |
 |🧩 [How I Help](https://cintiamagalhaes.dev/about/where-i-help.html)    | Key challenges in cloud documentation and how I address them.                               |
 |💼 [Portfolio](https://cintiamagalhaes.dev/porffolio.html) | See examples of my work, from sample docs to cloud documentation projects.                                 |
