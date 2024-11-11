@@ -17,14 +17,14 @@ Jump straight into the content that interests you:
 
 | Section       | Content                                                                                  |
 |---------------|----------------------------------------------------------------------------------------------|
-|🙋🏻‍♀️ [About Me](#)  | Learn about my background, skills, and what drives my work.           | 
+|🙋🏻‍♀️ [About Me](https://cintiamagalhaes.dev/about.html)  | Learn about my background, skills, and what drives my work.           | 
 |🧠 [Skill Set](#)     | My technical knowledge, including tools and technologies I’m comfortable with.              |
 |🧩 [How I Help](#)    | Key challenges in cloud documentation and how I address them.                               |
 |💼 [Portfolio](#) | See examples of my work, from sample docs to cloud documentation projects.                                 |
 |📑 [Sample Docs](#)   | Specific examples of my documentation style and approach.                              |
 |☸️ [Guides](#) | In-depth resources on cloud infrastructure topics.                            |
 |☁️ [Projects](#)      | Highlights of key projects and documentation initiatives.                                 |
-|✉️ [How to Reach Me](#)     | You can reach out via [email](mailto:), connect on [LinkedIn](#), or check out my [GitHub](#).            |
+|✉️ [How to Reach Me](#)     | You can reach out via [email](mailto:), connect on [LinkedIn](https://www.linkedin.com/in/cintiamagalhaes/), or check out my [GitHub](https://github.com/cikasm).            |
 
 
 Thanks for visiting!
