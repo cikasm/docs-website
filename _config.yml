@@ -8,7 +8,7 @@
     baseurl: "/docs-website"
 
 
-    footer_content: 'Copyright &copy; 2024 Cintia Magalhães <a href="">Terms & Conditions</a> • <a href="">Privacy Policy</a>'
+    footer_content: 'Copyright &copy; 2024 Cintia Magalhães <a href="https://cintiamagalhaes.dev/policy/terms-conditions.html">Terms & Conditions</a> • <a href="https://cintiamagalhaes.dev/policy/privacy.html">Privacy Policy</a>'
     
     callouts_level: quiet # or loud
 callouts:
